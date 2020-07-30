@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  DoAnDHMT.cpp
+  DoAnDHMTDoc.cpp
+  DoAnDHMTView.cpp
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(452,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(452,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(452,50): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(455,25): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(455,37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(455,51): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(458,25): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(458,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\DoAnDHMT\DoAnDHMTView.cpp(458,53): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  FormViewBar.cpp
+  MainFrm.cpp
+  Generating Code...
+  DoAnDHMT.vcxproj -> C:\Users\SpartaKook7012_Tu\Documents\GitHub\DoHoaCK\17520934-17520942-17521201_DACK\Debug\DoAnDHMT.exe
